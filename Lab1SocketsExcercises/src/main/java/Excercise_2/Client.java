@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.net.Socket;
 import javax.swing.JOptionPane;
 
+
 public class Client {
 
     private DataOutputStream output; // output stream to client
