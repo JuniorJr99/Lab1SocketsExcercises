@@ -10,6 +10,10 @@ import java.util.logging.Logger;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+/**
+ *
+ * @author Ronny Mairena B64062 Junior Corrales B72388
+ */
 public class Server extends javax.swing.JFrame {
 
     private DataOutputStream output; // output stream to client

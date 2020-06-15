@@ -11,6 +11,10 @@ import java.io.IOException;
 import java.net.Socket;
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Ronny Mairena B64062 Junior Corrales B72388
+ */
 public class Client {
 
     private DataOutputStream output; // output stream to client

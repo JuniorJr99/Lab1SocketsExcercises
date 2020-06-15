@@ -11,6 +11,10 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Random;
 
+/**
+ *
+ * @author Ronny Mairena B64062 Junior Corrales B72388
+ */
 public class ServerThread extends Thread {
 
     private DataOutputStream output; // output stream to client

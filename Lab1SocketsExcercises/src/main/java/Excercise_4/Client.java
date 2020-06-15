@@ -11,7 +11,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Ronny Mairena B64062
+ * @author Ronny Mairena B64062 Junior Corrales B72388
  */
 public class Client extends javax.swing.JFrame {
     

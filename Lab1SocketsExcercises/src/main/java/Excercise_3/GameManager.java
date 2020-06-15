@@ -7,7 +7,7 @@ package Excercise_3;
 
 /**
  *
- * @author Jose Cespedes
+ * @author Ronny Mairena B64062 Junior Corrales B72388
  */
 public class GameManager {
      private boolean playerwinner = false;
